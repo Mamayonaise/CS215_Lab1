@@ -1,4 +1,4 @@
-package Lab1;
+package Lab1Prob1;
 
 public class Cyclist implements IsMobile{
   
